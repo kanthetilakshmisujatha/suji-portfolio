@@ -44,6 +44,13 @@ export const config = {
           buttonText: 'CHECK OUT',
         },
         {
+          heading: 'Loan Application',
+          description: 'Developed an end-to-end solution for loan application management,featuring user and admin dashboards,creaditworthiness evaluation,and loan decision-making logic.Included secure authentication and detailed reporting.Technologies Used:React.js,Node.js,Express.js,MongoDB,JwT,Bcrypt',
+          animationDelay: '700',
+          buttonLink: 'https://github.com/kanthetilakshmisujatha/loan_application_system',
+          buttonText: 'CHECK OUT',
+        },
+        {
           heading: 'Student-Placement-prediction',
           description: 'Created a Project On Student-Placement-prediction Using MERN STACK,ML',
           animationDelay: '700',

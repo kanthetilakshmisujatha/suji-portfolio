@@ -44,6 +44,7 @@
       }
     }
   }
+  
 
   &:nth-child(5) {
     border-color: #ff6347;
@@ -54,7 +55,24 @@
       }
     }
   }
+  &:nth-child(6) {
+    border-color: #b19cd9;
 
+    .project-card__description-content {
+      a {
+        background: #b19cd9;
+      }
+    }
+  }
+  &:nth-child(7) {
+    border-color: #930c68;
+
+    .project-card__description-content {
+      a {
+        background: #5ac08d;
+      }
+    }
+  }
   &__container {
     position: relative;
     top: 0;
